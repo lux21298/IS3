@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_E1lJpNhQbfMIs-xDdx9HvQh274R6RIP
 """
 
-!pip install wget
-
 # Commented out IPython magic to ensure Python compatibility.
 # Essential data manipulation and visualization libraries
 import numpy as np
